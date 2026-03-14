@@ -1,5 +1,8 @@
 {
   "name": "zenith-backend",
   "version": "1.0.0",
-  "description": "Zenith Foundation AI backend - keeps the API key safe"
+  "description": "Zenith Foundation backend — keeps all API keys safe",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  }
 }
